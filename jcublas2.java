@@ -164,5 +164,5 @@ public class jcublas2 {
             return false;
         }
         return (errorNorm / refNorm < 1e-6f);
-    }
+    }/////////////////
 }
