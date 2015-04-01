@@ -107,5 +107,6 @@ public static void printMatrix(double[][] m) {
     //printMatrix(matice3);
     long end = System.currentTimeMillis() - start;
     System.out.println("vysledny čas: " +end);
+    ////
   }
 }
